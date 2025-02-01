@@ -29,7 +29,8 @@ This project showcases best practices in cloud architecture, including:
 
 ## **Technical Architecture**
 
-![NPL](https://github.com/user-attachments/assets/9bd1e078-4630-4e1b-b273-8d6935a10be9)
+![NPL](https://github.com/user-attachments/assets/1bdcc339-60a1-4f8a-89b4-4a0c61de6797)
+
 
 
 
